@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello there!
+![Hello there](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
-<!--
-**evehling/evehling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- ✌️ I'm a computer science graduate student at the University of Southern California. 
+- 💻 My development experience ranges from deployment (k8s), ML, backend, front end, and UX/UI design. 
+- 🌎 I really gravitate towards interdisciplinary development projects.
+- 🔭 I’m currently working on [Crunch](), my passion project ATM 
+- 🌱 I’m currently learning SwiftUI for Crunch! This is my first time creating an iOS app :-) 
+- 💬 Ask me about anything Start Wars or (coding) related 
+- ⚡ I'm starting a [blog]()!
+- 📫 My [portfolio site]()
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

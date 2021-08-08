@@ -8,8 +8,8 @@
 - 🔭 I’m currently **2.5 weeks** into working on [Crunch](https://github.com/evehling/crunch), my passion project ATM 
 - 🌱 I’m currently learning Swift and SwiftUI for Crunch! This is my first time creating an iOS app :-) 
 - 💬 Ask me about anything Start Wars or (coding) related 
-- ⚡ I'm starting a [blog]()!
-- 📫 My [portfolio site]()
+- ⚡ I'm starting a [blog](https://medium.com/@evehling)!
+- 📫 My [portfolio site](https://eevee-b7dff.netlify.app/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evehling&layout=compact&custom_title=My%20GitHub%20Languages&langs_count=10&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)

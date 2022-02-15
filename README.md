@@ -6,7 +6,7 @@
 - 💻 My development experience ranges from deployment (k8s), ML, backend, front end, and UX/UI design. 
 - 🌎 I really gravitate towards interdisciplinary development projects.
 - 🔭 I’m currently **7 months** into working on [Cruncher](https://cruncher.app), my passion project ATM 
-- 🌱 I’m still learning alot about Swift and SwiftUI for Cruncher! This is my first time creating an iOS app :-) 
+- 🌱 I taught myself Swift and SwiftUI for Cruncher and still have a lot ot learn! This is my first iOS app :-) 
 - 💬 Ask me about anything Star Wars or (coding) related 
 - ⚡ I'm starting a [blog](https://medium.com/@evehling)!
 - 📫 My [portfolio site](https://eevee-b7dff.netlify.app/)

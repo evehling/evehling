@@ -8,7 +8,7 @@
 - 🔭 I’m currently **7 months** into working on [Cruncher](https://cruncher.app), my passion project ATM 
 - 🌱 I taught myself Swift and SwiftUI for Cruncher and still have a lot ot learn! This is my first iOS app :-) 
 - 💬 Ask me about anything Star Wars or (coding) related 
-- ⚡ I'm starting a [blog](https://medium.com/@evehling)!
+- ⚡ I'm starting a [blog](https://medium.com/@evehling)! (On hold ATM while school has been crazy!)
 - 📫 My [portfolio site](https://eevee-b7dff.netlify.app/)
 
 

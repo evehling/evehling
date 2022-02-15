@@ -5,7 +5,7 @@
 - ✌️ I'm a computer science graduate student at the University of Southern California. 
 - 💻 My development experience ranges from deployment (k8s), ML, backend, front end, and UX/UI design. 
 - 🌎 I really gravitate towards interdisciplinary development projects.
-- 🔭 I’m currently **15 weeks** into working on [Cruncher](https://cruncher.app), my passion project ATM 
+- 🔭 I’m currently **7 months** into working on [Cruncher](https://cruncher.app), my passion project ATM 
 - 🌱 I’m still learning alot about Swift and SwiftUI for Cruncher! This is my first time creating an iOS app :-) 
 - 💬 Ask me about anything Star Wars or (coding) related 
 - ⚡ I'm starting a [blog](https://medium.com/@evehling)!
